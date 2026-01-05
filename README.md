@@ -1,2 +1,5 @@
-# Stack-Queue-LinkedList-Implementation-using-class
-Stack Queue LinkedList Implementation using class
+# Data Structures-Implementation-using-class
+Stack 
+Queue 
+LinkedList 
+
